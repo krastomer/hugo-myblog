@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'ป้ายยาซีรีส์'
+theme = "paper"
